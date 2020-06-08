@@ -1,0 +1,19 @@
+---
+layout: post
+title:      " Why Software Engineering?"
+date:       2020-06-08 10:37:05 +0000
+permalink:  why_software_engineering
+---
+
+
+In the middle of the night in the busiest city in the world, I had a thought. The thought came to me after hours of droning around in my car on the empty streets of NYC. I've been a Lyft driver for a few years now and I was starting to get used to the nightly silence. NY is known as the city that never sleeps but from what i've seen, I would say it takes a lot of naps. Even with the unusually slow pace, I get a ride request and headed to my destination. In the middle of the ride, me and the passenger sparked a conversation. The topic was about how tech is constantly advancing and how much better our lives are for it. Why we were talking about this at 2 AM, who knows. Alas, the conversation entrigued us both. As we neared our destination, our conversation came to an end. Like most rides I have given, it ends in awkward goodbyes with the acknowledgment from both of us that we will probably never see each other again. As I drive away, my mind begins to wander. Time passes and I contemplate where I am, what I want to do in life, and what I want to do in the future. Heavy stuff, but what else is there to do when you are driving around alone in a big city in the dead of night. After a few minutes in deep contemplation, I realized, I want to code! Maybe it was the conversation I just had, or maybe my life has been leading up to this for quite some time now. I think back to the days of my high school years. 
+
+
+High school, they say it's "The best years of your life". I have yet to meet anyone that agrees with that, but my time wasn't so bad. In high school I happened to be really good at math and science, and ended up being one of the 'smart kids'. In reality, I was just winging it most of the time. But no one has to know that, right? I was pushed torwards going on to be an engineer by my guidance councelors and friends. Most of my friends were going on to engineering schools. Me, I had no idea what an engineer did at all. The only thing i knew for sure was that I wanted to create. So I thought engineering was the right fit for me. I chose many different engineering colleges, and got into a bunch of different universities. The one that gave me the most financial aid was one of my safety schools which was a liberal arts school. No engineering department but they had a 3+2 Program. I ended up choosing the one that gave me the most money. 
+
+
+I wanted to create things and thought that I could do that with the mechanical engineering program in college. At first I did okay. I never found  the courses to be too difficult. But I didn't really have any real interest in them, so I started playing basketball on the side, and trying out for the school play whenever I could. I noticed a trend. I enjoyed almost every other class other than my engineering related courses. But I enjoyed one in particular the most. Computer Science. I found that computer science filled that need in me to create. It gave me the freedom to do what I wanted. So as the years passed I started skipping most of my physics and math courses and rarely missing my computer science courses. Once I became a junior i started to realize that maybe engineering isnt for me. I never disliked math or physics, but I just had no motivation. Ultimately, I decided to leave school. Even after all this happened I still wasn't sure what I wanted to do. So I got a full time job, in a restaurant. Few years later I find myself as a Lyft driver. 
+
+
+So when I decided that I wanted to be a software engineer, it was one of my most defining moments in my life. Coding, creating software, and actually using the math/physics I learned, thinking about all of these things made me happy. Thats how I realized a career in software engineering is the direction I want my life to take. 
+
