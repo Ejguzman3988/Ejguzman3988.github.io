@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My First CLI Project - Tarkov-Pedia"
-date:       2020-06-22 02:42:24 +0000
+date:       2020-06-21 22:42:25 -0400
 permalink:  my_first_cli_project_-_tarkov-pedia
 ---
 
