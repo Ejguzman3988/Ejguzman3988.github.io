@@ -1,11 +1,11 @@
 # Site settings
 author: Eriberto Guzman
-title: 
+title: My Journey As A Software Engineer
 header-img: img/home-bg.png
 email: eriberto176@gmail.com
 copyright_name: Eriberto Guzman
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Just the beginning
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Ejguzman3988
